@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: because sort1 faster then sort3 in sorted lists but similiar in other lists
+
+sort2 uses: Merge Sort
+
+How do you know?: it is faster in every scenario
+
+sort3 uses: Selection Sort
+
+How do you know?: it is slower in sorted lists then with sort1
