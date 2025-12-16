@@ -42,12 +42,17 @@ By comparing execution speed across these scenarios, I was able to infer the und
 Based on performance analysis:
 
 sort1 uses Bubble Sort
+
 - Faster on already sorted input
 - Performs similarly to Selection Sort on unsorted data
+
 sort2 uses Merge Sort
+
 - Fastest in all scenarios
 - Consistent performance regardless of input order
+
 sort3 uses Selection Sort
+
 - Slower on sorted input compared to Bubble Sort
 - Performance remains consistently slower across datasets
 
